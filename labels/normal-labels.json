@@ -1,0 +1,52 @@
+[
+  {
+    "name": "🕊 API",
+    "color": "c5def5",
+    "description": "API를 사용한 작업"
+  },
+  {
+    "name": "🐞 BUG",
+    "color": "d73a4a",
+    "description": "에러 / 고쳐야할 것"
+  },
+  {
+    "name": "🧩 Component",
+    "color": "a2eeef",
+    "description": "컴포넌트 생성 / 업데이트 / 삭제"
+  },
+  {
+    "name": "✍🏻 DOCS",
+    "color": "0075ca",
+    "description": "README 작업"
+  },
+  {
+    "name": "🖥 Environment",
+    "color": "006B75",
+    "description": "환경설정 관련 작업"
+  },
+  {
+    "name": "✨ Feature",
+    "color": "FBDA04",
+    "description": "작은 기능 작업 단위"
+  },
+  {
+    "name": "📄 Page",
+    "color": "d85096",
+    "description": "페이지 생성/ 업데이트 / 삭제"
+  },
+  {
+    "name": "⚙️ Refactor",
+    "color": "7057ff",
+    "description": "같은 기능 / 보기 좋은 코드"
+  },
+  {
+    "name": "🏗 Structure",
+    "color": "c0edf7",
+    "description": "구조 짜기"
+  },
+  {
+    "name": "🤔 THINKING",
+    "color": "d4c5f9",
+    "description": "고려한 점 / 고민한 것"
+  }
+]
