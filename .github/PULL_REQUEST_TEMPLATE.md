@@ -1,5 +1,5 @@
 ## TO-DO List
-- [ ] task
+- [ ] 
 <br/><br/>
 
 ## Issue traker
