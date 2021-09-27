@@ -1,9 +1,3 @@
----
-title: 'DAY: '
-labels: ''
-assignees: 'dailyco'
----
-
 ## TO-DO List
 - [ ] task
 <br/><br/>
