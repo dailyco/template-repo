@@ -19,4 +19,4 @@ assignees: 'dailyco'
 <br/><br/>
 
 ## Issue traker
-- task issue:  #
+- task issue: #
